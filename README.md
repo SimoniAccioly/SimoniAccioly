@@ -2,8 +2,10 @@
 
 :anger: Me chamo Simoni Accioly :anger:
 <br>
-Sou uma administradora em transição de carreira, tenho 31 anos, um bb lindo de 1ano e 2m, acabei de concluir um curso de Deenvolvimento Front-End na Gama Academy, apaixonada por tecnologia e com uma expectativa muito grande de crescer na área.<br>
-Estou estudando no {Reprograma} (:tada:) Back-End e quero muito aprender a usar o Node e também entender como surgem as API's que apanhei tanto para aprender a consumir no Front-End.
+Sou uma administradora em transição de carreira, tenho 31 anos, concluí em julho um curso de Desenvolvimento Front-End na Gama Academy.<br>
+Mês passado conclui pela {Reprograma} (:tada:) um curso de Back-End. <br>
+Apaixonada por TI e em constante aprendizado.
+
 
 :pencil:Minhas redes:
 LinkedIn: [LinkedIn](linkedin.com/in/simoniaccioly)
